@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernz868
 - 👀 I’m interested in getting into tech
-- 🌱 I’m currently learning Python & Machine Learning
+- 🌱 I’m currently learning Python & Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
