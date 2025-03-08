@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bernz868
-- 👀 I’m interested in getting into tech
-- 🌱 I’m currently learning Python & Web Dev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning the fundamentals that cybersecurity are built on
+- 🌱 I’m currently learning Programming
+- 💞️ I’m looking to collaborate on developing the required skills to be a security researcher
 - 📫 How to reach me ...
 
 <!---
